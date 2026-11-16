@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "name": "Mac",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/opt/homebrew/include",
+        "/opt/homebrew/opt/cpp-httplib/include"
+      ],
+      "compilerPath": "/usr/bin/clang++",
+      "intelliSenseMode": "clang-x64"
+    }
+  ],
+  "version": 4
+}
